@@ -1,0 +1,170 @@
+repo_name: Sowhat999/suggest
+report_id: 0620da949bf55fe39568c0be1191d2e8
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T06:24:07+00:00'
+requested_by: bitonic
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: Haskell
+  description: An advanced purely-functional programming language
+  website_url: http://www.haskell.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1069/oCgm29k9.png
+  detection_source_url: https://github.com/Sowhat999/suggest
+  detection_source: Repo Metadata
+- name: Conduit
+  description: Open-source service mesh for Kubernetes
+  website_url: https://conduit.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/8044/DwO16RLv_400x400.jpg
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2012-02-25 11:57:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Sowhat999/suggest
+  detection_source: Repo Metadata
+- name: warp
+  description: Secure and simple terminal sharing
+  website_url: https://github.com/spolu/warp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: localhost Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: base
+  package_url: http://hackage.haskell.org/base
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: blaze-builder
+  description: |-
+    This library allows to efficiently serialize Haskell values to lazy bytestrings
+    with a large average chunk size
+  package_url: http://hackage.haskell.org/blaze-builder
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: bytestring
+  description: An efficient compact
+  package_url: http://hackage.haskell.org/bytestring
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: conduit
+  description: |-
+    Conduit is a solution to the streaming data problem, allowing for production,
+    transformation, and consumption of streams of data in constant memory
+  package_url: http://hackage.haskell.org/conduit
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2012-02-25 11:57:22.000000000 Z
+- name: http-types
+  description: Generic HTTP types for Haskell
+  package_url: http://hackage.haskell.org/http-types
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: mtl
+  description: MTL is a collection of monad classes
+  package_url: http://hackage.haskell.org/mtl
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: utf8-string
+  description: A UTF8 layer for Strings
+  package_url: http://hackage.haskell.org/utf8-string
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: wai
+  description: |-
+    Provides a common protocol for communication between web applications and web servers.
+
+    API docs and the README are available at http://www.stackage.org/package/wai
+  package_url: http://hackage.haskell.org/wai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
+- name: warp
+  description: HTTP/1.0
+  package_url: http://hackage.haskell.org/warp
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/hackage/image.png
+  detection_source_url: https://github.com/Sowhat999/suggest/blob/master/suggest.cabal
+  detection_source: suggest.cabal
+  last_updated_by: Francesco
+  last_updated_on: 2011-11-15 16:05:03.000000000 Z
